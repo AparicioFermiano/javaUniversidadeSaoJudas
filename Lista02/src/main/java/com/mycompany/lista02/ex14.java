@@ -1,8 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-
 package com.mycompany.lista02;
 
 import javax.swing.JOptionPane;
@@ -11,8 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author aparicio
  */
-public class Lista02 {
-
+public class ex14 {
     public static void main(String[] args) {
         Integer idade = Integer.parseInt(JOptionPane.showInputDialog("Digite a idade de um nadador: "));
         String categoria;
